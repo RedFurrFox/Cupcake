@@ -1,0 +1,20 @@
+{
+  "APIs": {
+	"GuildedBotToken": null,
+	"ErrorDumpEmbedURL": null
+  },
+  "BotConfigs": {
+	"DefaultPrefix": "",
+	"BotName": "",
+	"BotDescription": ""
+  },
+  "BotControl": {
+	"BotOwnerUserID": "",
+	"BotCoOwnerUserIDs": [
+	  ""
+	]
+  },
+  "SystemConfig": {
+	"CogsFolderName": ""
+  }
+}
