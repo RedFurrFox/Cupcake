@@ -1,0 +1,31 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Cupcake's Generated Database/s
+*.sqlite3
+
+# Cupcake's Database/s Structure Template/s
+OtherProccess/DBJsonTemplates
+
+# Cupcake's Test File/s
+*_TEST.*
+*-TEST.*
+TEST-*
+TEST_*
+TEST*
+
+# Cupcake's Temporary File/s
+*_TEMP.*
+*-TEMP.*
+TEMP-*
+TEMP_*
+TEMP*
+
+# Cupcake's Config File/s
+Configs*
