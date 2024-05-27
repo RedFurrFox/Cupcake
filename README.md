@@ -1,5 +1,5 @@
 # Cupcake
- A successor of "SimpleGuildBot". Managing your guilded server for free.
+ A successor of [SimpleGuildBot](https://github.com/RedFurrFox/SimpleGuildBot). Managing your guilded server for free.
 
 ---
 
