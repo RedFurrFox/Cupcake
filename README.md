@@ -5,3 +5,6 @@
 
 ## Status
  Currently under construction
+
+---
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[RedFurrFox].Cupcake)
